@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-image {
+  height: 160px;
+  width: 160px;
+}
+
+.about-text {
+  color: #6d396b;
+  font-family: 'Roboto';
+  font-size: 47px;
+  font-weight: bold;
+}
+
+.about-create-text {
+  color: #555555;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 400;
+  margin-top: 0px;
+}
